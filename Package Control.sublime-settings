@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Create Save Prompt",
+		"Emmet",
+		"File Rename",
+		"Gist",
+		"Git",
+		"GitGutter-Edge",
+		"Package Control",
+		"Python Nose Testing Snippets",
+		"Search in Project",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"Web Inspector"
+	]
+}

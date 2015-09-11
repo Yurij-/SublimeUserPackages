@@ -1,0 +1,5 @@
+#no archiver
+/*.rar
+#Gist.sublime-settings токен от github
+Gist.sublime-settings
+Package Control.cache/**
