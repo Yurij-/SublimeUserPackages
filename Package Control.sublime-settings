@@ -14,8 +14,11 @@
 		"Package Control",
 		"Python Nose Testing Snippets",
 		"Search in Project",
-		"Sublimall",
 		"SublimeCodeIntel",
 		"Web Inspector"
+	],
+	"repositories":
+	[
+		"https://github.com/Yurij-/SublimeUserPackages.git"
 	]
 }
