@@ -3,4 +3,5 @@
 #Gist.sublime-settings токен от github
 Gist.sublime-settings
 Package Control.cache/**
-Package Control.last-run
+#Package Control.last-run
+tmp/**
